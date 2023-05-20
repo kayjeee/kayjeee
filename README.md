@@ -1,5 +1,5 @@
 Hi there! I'm [Your Name] 👋
-Profile Image ([])
+Profile Image ![Alt Text](kayjee.jpg)
 
 Welcome to my GitHub profile! I'm a passionate [your profession] with [number] years of experience in [mention your key areas of expertise]. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
 
