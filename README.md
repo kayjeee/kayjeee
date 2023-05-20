@@ -1,7 +1,7 @@
 Hi there! I'm [kayjeee] 👋
 ![kayjeee](kayjeee.jpg)
 
-Welcome to my GitHub profile! I'm a passionate web developer with 15 years of experience in Java,JS,html,React. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
+Welcome to my GitHub profile! I'm a passionate web developer with 15 years of experience in Java,JS,HTML,React. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
 
 🔭 Current Projects
 Project 1:[https://github.com/kayjeee/Books-v4] In this project, I will take the Awesome books application and convert it into a fully functional website. I will refactor the project to add three new sections on top of the two sections I have already completed: Books list (done), Add book form (done), a new Contact info section, a Navigation bar, and a Footer.
