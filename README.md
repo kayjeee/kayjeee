@@ -1,5 +1,5 @@
 Hi there! I'm [kayjeee] 👋
-Profile Image ![your web developer](fotor-ai-2023052083915)
+Profile Image ![your web developer](fotor-ai-2023052083915.jpg)
 
 Welcome to my GitHub profile! I'm a passionate [ web developer] with [15] years of experience in [Java,JS,html,React]. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
 
