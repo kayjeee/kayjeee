@@ -1,5 +1,5 @@
 Hi there! I'm [Your Name] 👋
-Profile Image ([(https://scontent.fjnb11-1.fna.fbcdn.net/v/t1.6435-9/188155344_10218101740805571_6889259423649856620_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aPsh13HuQ0kAX92yeLM&_nc_ht=scontent.fjnb11-1.fna&oh=00_AfDq-CjEkE3tsm8Xz3KvZhpW2HzsZIb3sPxpiazkpzOcjQ&oe=648FDB3C)])
+Profile Image ([])
 
 Welcome to my GitHub profile! I'm a passionate [your profession] with [number] years of experience in [mention your key areas of expertise]. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
 
