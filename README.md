@@ -1,5 +1,5 @@
 Hi there! I'm [kayjeee] 👋
-![kayjeee](kayjeee.jpg)
+
 
 Welcome to my GitHub profile! I'm a passionate web developer with 15 years of experience in Java,JS,HTML,React. I love working on innovative projects and collaborating with talented individuals to solve challenging problems.
 
